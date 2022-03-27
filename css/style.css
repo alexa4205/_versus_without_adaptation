@@ -1,0 +1,105 @@
+body {
+    font-family: 'Lato', sans-serif;
+    width: 1440px;
+    color: #fff;
+}
+
+/* первый контейнер */
+/* начало */
+.container-nav {
+    background-image: linear-gradient(to top, #222222, #22222200), url(../images/main-picture.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+
+.nav-item {
+    font-size: 11px;
+    text-transform: uppercase;
+    padding-left: 40px;
+    padding-right: 0;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 110px;
+    text-align: center;
+}
+
+.navbar-dark {
+    padding-top: 35px;
+}
+/* конец */
+
+/* текст перед кнопкой */
+.header-info {
+    color: #fff;
+    margin-top: 140px;
+}
+
+.info {
+    max-width: 470px;
+    margin: 0 auto; 
+}
+
+.main-title {
+    font-size: 48px;
+    font-weight: 400;
+}
+
+/* кнопка */
+.main-button {
+    border-width: 1px;
+    border-radius: 3px;
+    font-size: 13px;
+    color: #00D6B4;
+    background: none;
+    border-color: #00D6B4;
+    padding: 10px 25px;
+    text-transform: uppercase;
+    margin-top: 20px;
+    margin-bottom: 126px;
+}
+
+/* втрой контейнер */
+/* начало */
+.container-work {
+    background-color: #222222;
+}
+
+.h3 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+/* конец */
+
+/* footer */
+/* начало */
+.footer {
+    background-color: #222222;
+    text-align: center;
+    margin: 0;
+}
+
+/* заголовок */
+.last-title {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0;
+    color: #c2c2c2;
+    padding-top: 40px;
+    padding-bottom: 19px;
+}
+
+/* текст под заголовком */
+.last-disc {
+    font-size: 12px;
+    font-weight: 400;
+    color: #999999;
+    padding-bottom: 39px;
+}
+/* конец */
